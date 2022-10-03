@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/robot-demo/static/css/main.a7062d09.css",
+    "main.css": "/robot-demo/static/css/main.2643312e.css",
     "main.js": "/robot-demo/static/js/main.9cd16032.js",
     "static/media/ambience-prairie.mp3": "/robot-demo/static/media/ambience-prairie.16082d9b0a3e62f262f4.mp3",
     "static/media/electricity.mp3": "/robot-demo/static/media/electricity.3bf3c0ef9be219a5c7e7.mp3",
@@ -62,11 +62,11 @@
     "static/media/plops-01.mp3": "/robot-demo/static/media/plops-01.03a9ccaaf7c8e6339e6c.mp3",
     "static/media/plops-02.mp3": "/robot-demo/static/media/plops-02.49f45ce4d53ef361161f.mp3",
     "index.html": "/robot-demo/index.html",
-    "main.a7062d09.css.map": "/robot-demo/static/css/main.a7062d09.css.map",
+    "main.2643312e.css.map": "/robot-demo/static/css/main.2643312e.css.map",
     "main.9cd16032.js.map": "/robot-demo/static/js/main.9cd16032.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7062d09.css",
+    "static/css/main.2643312e.css",
     "static/js/main.9cd16032.js"
   ]
 }
